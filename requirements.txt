@@ -1,4 +1,4 @@
-selenium
-tinvest
 pandas
 pyarrow
+requests
+tinvest

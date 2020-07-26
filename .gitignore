@@ -136,3 +136,6 @@ chromedriver
 
 # Data folder
 data/*
+
+# Desktop Service Store ignore
+.DS_Store
